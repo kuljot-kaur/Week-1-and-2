@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week-1-and-2.iml" filepath="$PROJECT_DIR$/.idea/Week-1-and-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob1/prob1.iml" filepath="$PROJECT_DIR$/prob1/prob1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob10/prob10.iml" filepath="$PROJECT_DIR$/prob10/prob10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob2/prob2.iml" filepath="$PROJECT_DIR$/prob2/prob2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob3/prob3.iml" filepath="$PROJECT_DIR$/prob3/prob3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob4/prob4.iml" filepath="$PROJECT_DIR$/prob4/prob4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob5/prob5.iml" filepath="$PROJECT_DIR$/prob5/prob5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob6/prob6.iml" filepath="$PROJECT_DIR$/prob6/prob6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob7/prob7.iml" filepath="$PROJECT_DIR$/prob7/prob7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob8/prob8.iml" filepath="$PROJECT_DIR$/prob8/prob8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prob9/prob9.iml" filepath="$PROJECT_DIR$/prob9/prob9.iml" />
+    </modules>
+  </component>
+</project>
